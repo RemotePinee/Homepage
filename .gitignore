@@ -1,0 +1,14 @@
+node_modules
+.next
+out/
+build/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

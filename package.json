@@ -1,0 +1,32 @@
+{
+  "name": "curated-presence",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "clsx": "^2.1.0",
+    "framer-motion": "^11.0.8",
+    "gsap": "^3.14.2",
+    "lucide-react": "^0.331.0",
+    "mouse-follower": "^1.1.2",
+    "next": "14.1.0",
+    "react": "^18.2.0",
+    "react-animated-cursor": "^2.11.2",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.6.0",
+    "tailwind-merge": "^2.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.20",
+    "@types/react": "^18.2.58",
+    "@types/react-dom": "^18.2.19",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "14.1.0",
+    "typescript": "^5.3.3"
+  }
+}
