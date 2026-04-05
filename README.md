@@ -9,6 +9,14 @@
 
 **✨ 注：本项目的代码架构、响应式 UI 布局以及核心交互视觉，均由 AI (人工智能) 辅助开发与优化。**
 
+<br>
+
+| 🖥️ 桌面端沉浸展示 | 📱 核心交互矩阵 |
+| :---: | :---: |
+| <img src="public/projects/1.png" width="450"> | <img src="public/projects/2.png" width="450"> |
+
+<br>
+
 ## 🚀 特色亮点
 
 - **高级暗黑美学:** 采用深色模式（Premium Dark）设计，结合高对比度色彩、毛玻璃悬浮布局以及极致流畅的过渡动画，打造高级视觉质感。
@@ -52,7 +60,7 @@ npm run dev
 
 - **Email:** 614807355@qq.com
 - **GitHub:** [@RemotePinee](https://github.com/RemotePinee)
-- **Bilibili:** [RemotePinee](https://space.bilibili.com/89020225)
+- **Bilibili:** [三块五的仔](https://space.bilibili.com/89020225)
 
 ---
 *STAY CURIOUS / REMOTEPINEE / 2026*
