@@ -11,7 +11,7 @@
 
 <br>
 
-| 🖥️ 桌面端沉浸展示 | 📱 核心交互矩阵 |
+| 🖥️ 桌面端沉浸展示 | 📱 深色模式展示 |
 | :---: | :---: |
 | <img src="public/projects/1.png" width="450"> | <img src="public/projects/2.png" width="450"> |
 
